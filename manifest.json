@@ -1,0 +1,27 @@
+{
+  "appSHA256": "2bed4c616b798959a163b09f601e69bc99477edd2ebc4e5f211b8de8bb20aa2c",
+  "architectures": [
+    "arm64",
+    "x86_64"
+  ],
+  "archiveSHA256": "460826357b09612513ac964260bd1473c94b5f13457daea93763b0c5c68b0ba1",
+  "assetSignatures": {
+    "Aweep-0.9.0.dmg": "P9VqOThjOXYDmoO7/Il4oPXYvDY8OD+lzAPmkQ0zA9thJMhDO7jKGb9Ca92ZCy3K7bys4StuepJCDYL0KlFxAg==",
+    "Aweep-0.9.0.zip": "NYItpVOjyHzr/V2vbGIeZSae40I8HNqXbFxfDyleqQ/El8xnMnLGhqr81P8JCa6irJ17/J2dGe0Yy/mFJTUICw=="
+  },
+  "build": "0.9.0",
+  "distributableOfficially": false,
+  "dmgSHA256": "15a570ca94457fa52a2876ab2c0f7ce9a30362daed589c5e3a6a9be8862efc7a",
+  "gatekeeperTransparent": false,
+  "helperBuild": "0.9.0",
+  "helperEligibility": "MANUAL-DMG",
+  "helperReusedByteForByte": false,
+  "identityType": "Apple Development",
+  "minOS": "26.0",
+  "notarized": false,
+  "schema": 1,
+  "selfInstallEnabled": false,
+  "sparkleVersion": "2.10.0",
+  "updateMode": "MANUAL-DMG",
+  "version": "0.9.0"
+}
