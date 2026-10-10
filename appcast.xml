@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Aweep — tests restreints</title>
     <item>
-      <title>Aweep 0.9.0</title>
-      <sparkle:version>0.9.0</sparkle:version>
-      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <title>Aweep 0.9.1</title>
+      <sparkle:version>0.9.1</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:informationalUpdate></sparkle:informationalUpdate>
-      <link>https://github.com/enrimerveille/aweep-releases/releases/tag/0.9.0</link>
+      <link>https://github.com/enrimerveille/aweep-releases/releases/tag/0.9.1</link>
       <description sparkle:format="plain-text">Mise à jour par DMG. Version de test Apple Development, non notarizée. Attendez qu’Aweep soit inactif puis quittez normalement avant installation.</description>
-      <enclosure url="https://github.com/enrimerveille/aweep-releases/releases/download/0.9.0/Aweep-0.9.0.zip" length="4661108" type="application/octet-stream" sparkle:edSignature="NYItpVOjyHzr/V2vbGIeZSae40I8HNqXbFxfDyleqQ/El8xnMnLGhqr81P8JCa6irJ17/J2dGe0Yy/mFJTUICw=="></enclosure>
+      <enclosure url="https://github.com/enrimerveille/aweep-releases/releases/download/0.9.1/Aweep-0.9.1.zip" length="4661097" type="application/octet-stream" sparkle:edSignature="iLjgB3bsP1V30Oax9LznfHqKdF4XoJM9Zd3iuZvvvnkBF02+gI6F1mf+U41YZgX6B5agjA7B7RpePIG4k8DMDQ=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: Qie4Epk2KIrjfb9IWbXqGhNLzVXu+BcXVnIBIlhRbYYfFwKc2yFtSQT98U0coNAQlDOu9a57+GJt4sY6C+S2Cw==
+edSignature: iFC1IAj8lCQ/EGnTsuKkdH4yKglcTDXASKaBmeBQRcPyN/sQUAbHUeQ3geB7uZ4MGBJFps7f1TFlPmVY9qsOAw==
 length: 1348
 -->
