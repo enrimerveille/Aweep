@@ -2,19 +2,19 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
-    <title>Aweep — tests restreints</title>
+    <title>Aweep — mises à jour manuelles</title>
     <item>
-      <title>Aweep 0.9.1</title>
-      <sparkle:version>0.9.1</sparkle:version>
-      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <title>Aweep 1.0.0</title>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:informationalUpdate></sparkle:informationalUpdate>
-      <link>https://github.com/enrimerveille/aweep-releases/releases/tag/0.9.1</link>
-      <description sparkle:format="plain-text">Mise à jour par DMG. Version de test Apple Development, non notarizée. Attendez qu’Aweep soit inactif puis quittez normalement avant installation.</description>
-      <enclosure url="https://github.com/enrimerveille/aweep-releases/releases/download/0.9.1/Aweep-0.9.1.zip" length="4661097" type="application/octet-stream" sparkle:edSignature="iLjgB3bsP1V30Oax9LznfHqKdF4XoJM9Zd3iuZvvvnkBF02+gI6F1mf+U41YZgX6B5agjA7B7RpePIG4k8DMDQ=="></enclosure>
+      <link>https://github.com/enrimerveille/aweep-releases/releases/tag/1.0.0</link>
+      <description sparkle:format="plain-text">Installation manuelle par DMG. Apple Development, non notarizée. Le helper change : dans Aweep 0.9.1 inactive, en mode Système et sans programmation ni Transport, retirez l’autorisation Aweep et attendez sa confirmation AVANT de quitter et remplacer l’app. Lancez ensuite 1.0.0 et autorisez son nouveau helper. Si le retrait ou la fermeture échoue, arrêtez la mise à jour. Aucune installation automatique.</description>
+      <enclosure url="https://github.com/enrimerveille/aweep-releases/releases/download/1.0.0/Aweep-1.0.0.zip" length="4680797" type="application/octet-stream" sparkle:edSignature="ckJYYDwUa2c7yuaKZeYNQyguu2tqCIuZM93lzyC3riyjkxydI6VPuvhg8k9wHueMSgpDGi5HbXlZcQFYtWnBCw=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: iFC1IAj8lCQ/EGnTsuKkdH4yKglcTDXASKaBmeBQRcPyN/sQUAbHUeQ3geB7uZ4MGBJFps7f1TFlPmVY9qsOAw==
-length: 1348
+edSignature: /7dQ/trTKmXoK2dnpPxKmO6gUDd9ebqNhivGTB773b6yvJxiHHtovvwMmx4fZfsWHjiUzz7d5JQ2NwlRtALJAQ==
+length: 1619
 -->
