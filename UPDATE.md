@@ -1,4 +1,4 @@
-# Mettre à jour Aweep 1.0.0
+# Mettre à jour Aweep 1.0.1
 
 La recherche automatique est activée par défaut. Vous pouvez la désactiver dans
 les Réglages ; OFF reste OFF au prochain lancement. Une recherche manuelle reste
@@ -7,6 +7,21 @@ Une erreur de serveur, de flux ou de signature n’autorise aucune installation.
 
 « Télécharger le DMG » ouvre la page GitHub de la version détectée. Choisissez
 `Aweep-X.Y.Z.dmg` dans ses assets. Aweep ne remplace pas automatiquement l’app.
+
+## 1.0.0 → 1.0.1 : helper inchangé
+
+Le helper 1.0.0, sa plist, son identité et sa politique de confiance sont
+strictement identiques dans les deux versions. Conservez son autorisation.
+
+1. Vérifiez l'état Système, sans programmation ni Transport actif, puis quittez
+   Aweep normalement. Si la fermeture est refusée, arrêtez la mise à jour.
+2. Remplacez Aweep dans Applications depuis `Aweep-1.0.1.dmg`, puis éjectez le DMG.
+3. Ouvrez l'application installée. Vérifiez 1.0.1, le helper autorisé et
+   authentifié, vos préférences et le fonctionnement de l'interface.
+
+Sur certaines configurations Intel/macOS 26, le premier popover peut se
+repositionner visiblement. Cette limitation est acceptée pour 1.0.1 ; elle ne
+constitue pas une résolution totale du défaut de stabilité visuelle.
 
 ## 0.9.0 → 0.9.1 : helper identique
 
@@ -26,10 +41,10 @@ paire. La version 0.9.1 de l’interface accepte ce helper 0.9.0 authentifié.
 Ce parcours a été qualifié physiquement le 12 octobre 2026 sur Mac Pro
 Intel / macOS Tahoe 26.7.1. Cela ne qualifie pas le changement de helper de 1.0.0.
 
-## Vers 1.0.0 : helper différent
+## Depuis 0.9.x ou 0.2.x vers 1.0.x : helper différent
 
-Le passage de 0.9.x ou d'une quotidienne 0.2.x à 1.0.0 change le helper. L’app
-1.0.0 attend un helper authentifié de majeure 1. Le helper 0.9.0 ou 2.x ne doit
+Le passage de 0.9.x ou d'une quotidienne 0.2.x à 1.0.0 ou 1.0.1 change le helper.
+L'app attend un helper 1.0.0 authentifié. Le helper 0.9.0 ou 2.x ne doit
 pas être réutilisé. L'ancien helper doit être retiré **avant** de remplacer l'app.
 
 1. Dans l’ancienne Aweep, revenez en mode Système et vérifiez l’absence de

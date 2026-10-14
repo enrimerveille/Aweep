@@ -1,4 +1,4 @@
-# Aweep 1.0.0
+# Aweep 1.0.1
 
 Garder le Mac éveillé, puis revenir simplement au comportement du système.
 Aweep est une application native macOS par Angry Thread, en français et en anglais.
@@ -17,14 +17,20 @@ apparence claire/sombre · Dock masquable.
 [Téléchargements officiels](https://github.com/enrimerveille/aweep-releases/releases)
 · [Installation](INSTALLATION.md) · [Mise à jour](UPDATE.md) · [Changelog](CHANGELOG.md)
 
-Téléchargez `Aweep-1.0.0.dmg` depuis les assets de la release officielle.
+Téléchargez `Aweep-1.0.1.dmg` depuis les assets de la release officielle.
+
+La 1.0.1 améliore le positionnement initial du popover et conserve le helper
+1.0.0. Sur certaines configurations Intel/macOS 26, un repositionnement visible
+reste possible lors de la première ouverture. Cette limitation connue est
+acceptée ; les ouvertures suivantes fonctionnent normalement dans les essais
+rapportés.
 
 **Distribution manuelle Apple Development, sans Developer ID ni notarisation.**
 macOS peut refuser l’ouverture ; aucune promesse de passage transparent de
 Gatekeeper. L’installation requiert les autorisations normales de macOS.
 Sparkle détecte et vérifie les mises à jour ; vous installez ensuite le DMG.
 
-Les captures préparées illustrent les vues natives avec des données de
+Les captures historiques de 1.0.0 illustrent les vues natives avec des données de
 démonstration ; elles ne constituent pas une qualification matérielle.
 ![Aweep en français, apparence claire](Aweep-1.0.0-fr-light.png)
 ![Aweep in English, dark appearance](Aweep-1.0.0-en-dark.png)

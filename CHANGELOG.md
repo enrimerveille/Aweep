@@ -1,6 +1,18 @@
 # Changelog
 
-## 1.0.0
+## 1.0.1
+
+- Amélioration du positionnement du popover lors de la première ouverture.
+- Sur certaines configurations Intel/macOS 26, un repositionnement visible
+  reste possible au premier affichage ; limitation acceptée pour cette version.
+- Helper 1.0.0 strictement identique ; moteur, préférences, contenu et Liquid Glass
+  conservés. Mises à jour exclusivement manuelles par DMG.
+
+Signature Apple Development, non notarizée. Le FAIL Intel de stabilité visuelle
+n'est pas transformé en PASS ; les autres critères Intel non relevés restent
+non qualifiés.
+
+## 1.0.0 — 12 octobre 2026
 
 - Première version 1.0.0 préparée depuis la baseline produit 0.2.59.
 - Modes Système, Éveillé, Temporaire et Transport sur les portables compatibles ;
@@ -12,8 +24,9 @@
 - Version cible 1.0.0 alignée entre bundle, affichage de secours et helper compilé.
 - Guides distincts pour helper identique et helper différent.
 
-Apple
-Development, sans Developer ID/notarisation ; aucune installation automatique.
+Publiée le 12 octobre 2026. Apple Development, sans Developer ID/notarisation ;
+aucune installation automatique. Les rapports historiques conservent leurs
+réserves et les contrôles physiques réellement effectués.
 
 ## 0.9.1 — 10 octobre 2026
 

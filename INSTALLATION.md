@@ -1,11 +1,10 @@
-# Installer Aweep 1.0.0
+# Installer Aweep 1.0.1
 
 macOS 26 ou plus récent · Mac Intel ou Apple silicon
 
-1. Téléchargez `Aweep-1.0.0.dmg` depuis la release officielle du
+1. Téléchargez `Aweep-1.0.1.dmg` depuis la release officielle du
    [canal Aweep](https://github.com/enrimerveille/aweep-releases/releases).
-   La 1.0.0 n’est disponible qu’après sa publication. Pour une préversion,
-   choisissez le DMG portant son numéro exact.
+   Choisissez le DMG portant le numéro exact de la version souhaitée.
 2. Ouvrez le DMG et glissez **Aweep** dans **Applications**.
 3. Éjectez le DMG et ouvrez Aweep depuis Applications.
 4. Si macOS bloque l’ouverture et propose cette autorisation pour Aweep :
@@ -19,7 +18,7 @@ macOS 26 ou plus récent · Mac Intel ou Apple silicon
    puis confirmez la demande macOS. Une autorisation peut aussi être en attente
    dans **Réglages Système → Général → Ouverture et extensions**.
    Un compte administrateur ou son approbation peut être nécessaire.
-7. Vérifiez **À propos : 1.0.0**, mode Système et autorisation vérifiée.
+7. Vérifiez **À propos : 1.0.1**, mode Système et autorisation vérifiée.
    Les choix « Barre des menus », « Masquer du Dock » et la recherche automatique
    de mises à jour sont activés par défaut. Les choix ultérieurs sont conservés.
 
@@ -40,5 +39,14 @@ Si le helper change, retirez l’ancienne autorisation depuis l’ancienne app *
 de quitter et de remplacer le bundle, puis autorisez la nouvelle app.
 Le [guide de mise à jour](UPDATE.md) détaille les deux parcours.
 Vos préférences sont conservées hors du bundle.
+
+Depuis Aweep 1.0.0 vers 1.0.1, le helper 1.0.0 est strictement identique :
+conservez son autorisation. Depuis les versions 0.9.x ou 0.2.x, suivez le parcours
+de changement de helper dans le guide de mise à jour.
+
+Sur certaines configurations Intel/macOS 26, un repositionnement visible du
+popover reste possible lors de sa première ouverture. Les ouvertures suivantes
+fonctionnent normalement dans les essais rapportés ; cette réserve esthétique
+est acceptée pour 1.0.1.
 
 Procédure Apple : [ouvrir une app en sécurité](https://support.apple.com/fr-fr/102445).
