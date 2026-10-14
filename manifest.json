@@ -1,21 +1,21 @@
 {
-  "appSHA256": "e78d47f291ce8c52ad79a432a14a34f877f2cd598352ea550ed7d023a2412937",
+  "appSHA256": "8b37b177f4eca251c7870d77223dcf760f87604e14f7dc29e653dc0ec1cc4ed9",
   "architectures": [
     "arm64",
     "x86_64"
   ],
-  "archiveSHA256": "621d9418f6f352a917a55ce2f95714a50f652d99bd29aac46c7b8c3187610312",
+  "archiveSHA256": "e111f874b197d04ab6286de05a467079b5c4e97bef5f11f5f7a34dfca12d960e",
   "assetSignatures": {
-    "Aweep-1.0.0.dmg": "ktsukhTP1myffAQaoqMq9yvHxKp3FA1iHnVOKdFmfT1FKOU4evwr2O/nRB/N/RAjyme9MJ1qmE9/zvP88Qn7AQ==",
-    "Aweep-1.0.0.zip": "ckJYYDwUa2c7yuaKZeYNQyguu2tqCIuZM93lzyC3riyjkxydI6VPuvhg8k9wHueMSgpDGi5HbXlZcQFYtWnBCw=="
+    "Aweep-1.0.1.dmg": "RBPYWkApss+eCUpMiA0t1QSzg9GKchrofteoINEPV0xwUKVUhZD9vVYe1QMdCaooUFVY4CtdFeO3L2WjPkADCg==",
+    "Aweep-1.0.1.zip": "Z4abncg5m0jX/juloG8+OUhZvLvubXx/HKqk1daocc9KT4sXo2Z6ROcJNx1K56920CfoSNOaX013sBav2V5vAg=="
   },
-  "build": "1.0.0",
+  "build": "1.0.1",
   "distributableOfficially": false,
-  "dmgSHA256": "647d17e3a69a0a650244fe1c4e9a93648716f142f2a40d41c848428c8cbaf15b",
+  "dmgSHA256": "54fa398451fcf231a191af0c19c00ba510270316de62335dc79227d0c2c04728",
   "gatekeeperTransparent": false,
   "helperBuild": "1.0.0",
-  "helperEligibility": "MANUAL-DMG",
-  "helperReusedByteForByte": false,
+  "helperEligibility": "SPARKLE-ELIGIBLE",
+  "helperReusedByteForByte": true,
   "identityType": "Apple Development",
   "minOS": "26.0",
   "notarized": false,
@@ -23,5 +23,5 @@
   "selfInstallEnabled": false,
   "sparkleVersion": "2.10.0",
   "updateMode": "MANUAL-DMG",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }

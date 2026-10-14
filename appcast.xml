@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Aweep — mises à jour manuelles</title>
     <item>
-      <title>Aweep 1.0.0</title>
-      <sparkle:version>1.0.0</sparkle:version>
-      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <title>Aweep 1.0.1</title>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:informationalUpdate></sparkle:informationalUpdate>
-      <link>https://github.com/enrimerveille/aweep-releases/releases/tag/1.0.0</link>
-      <description sparkle:format="plain-text">Installation manuelle par DMG. Apple Development, non notarizée. Le helper change : dans Aweep 0.9.1 inactive, en mode Système et sans programmation ni Transport, retirez l’autorisation Aweep et attendez sa confirmation AVANT de quitter et remplacer l’app. Lancez ensuite 1.0.0 et autorisez son nouveau helper. Si le retrait ou la fermeture échoue, arrêtez la mise à jour. Aucune installation automatique.</description>
-      <enclosure url="https://github.com/enrimerveille/aweep-releases/releases/download/1.0.0/Aweep-1.0.0.zip" length="4680797" type="application/octet-stream" sparkle:edSignature="ckJYYDwUa2c7yuaKZeYNQyguu2tqCIuZM93lzyC3riyjkxydI6VPuvhg8k9wHueMSgpDGi5HbXlZcQFYtWnBCw=="></enclosure>
+      <link>https://github.com/enrimerveille/aweep-releases/releases/tag/1.0.1</link>
+      <description sparkle:format="plain-text">Amélioration du positionnement du popover lors de la première ouverture. Sur certaines configurations Intel/macOS 26, un repositionnement visible reste possible à la première ouverture. Le helper 1.0.0 est inchangé depuis Aweep 1.0.0 ; conservez son autorisation pour cette transition. Depuis 0.9.x ou 0.2.x, retirez l’ancienne autorisation dans l’ancienne app inactive avant de remplacer, puis autorisez le helper 1.0.0. Apple Development, non notarizée. Aucune installation automatique : mise à jour manuelle par DMG.</description>
+      <enclosure url="https://github.com/enrimerveille/aweep-releases/releases/download/1.0.1/Aweep-1.0.1.zip" length="4712416" type="application/octet-stream" sparkle:edSignature="Z4abncg5m0jX/juloG8+OUhZvLvubXx/HKqk1daocc9KT4sXo2Z6ROcJNx1K56920CfoSNOaX013sBav2V5vAg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: /7dQ/trTKmXoK2dnpPxKmO6gUDd9ebqNhivGTB773b6yvJxiHHtovvwMmx4fZfsWHjiUzz7d5JQ2NwlRtALJAQ==
-length: 1619
+edSignature: VZ8STL0jbnfO8VrFxj4kOdZhyUl8ZfdOQ+7riSJ0fz0JUI8dB7GpMIub3qI1z8IIEivlLSeZyza/e+tUgjgvDA==
+length: 1735
 -->
