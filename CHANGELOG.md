@@ -1,5 +1,9 @@
 # Notes de version
 
+## 1.0.2 — 27 octobre 2026
+
+Actualisation du canal de distribution et de recherche des mises à jour. Depuis une ancienne version, installez manuellement 1.0.2 pour retrouver la recherche de mises à jour après le changement d’adresse GitHub.
+
 ## 1.0.1 — 14 octobre 2026
 
 - Amélioration de l'ouverture du panneau depuis la barre des menus.
@@ -19,4 +23,4 @@
 
 - Première préversion distribuée pour les essais d'installation.
 
-[Installer la version actuelle](INSTALLATION.md) · [Consulter les releases](https://github.com/enrimerveille/aweep-releases/releases)
+[Installer la version actuelle](INSTALLATION.md) · [Consulter les releases](https://github.com/enrimerveille/Aweep/releases)

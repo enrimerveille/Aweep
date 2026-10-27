@@ -4,7 +4,7 @@
 
 **Aweep est déjà installée ?** Consultez le [guide de mise à jour](UPDATE.md) avant de remplacer l’application.
 
-1. [Téléchargez Aweep 1.0.1](https://github.com/enrimerveille/aweep-releases/releases/download/1.0.1/Aweep-1.0.1.dmg).
+1. [Téléchargez Aweep 1.0.2](https://github.com/enrimerveille/Aweep/releases/download/1.0.2/Aweep-1.0.2.dmg).
 2. Ouvrez le DMG, puis glissez **Aweep** dans **Applications**. Éjectez le DMG.
 3. Ouvrez Aweep depuis **Applications**. Si macOS bloque l’ouverture, suivez la procédure de sécurité ci-dessous.
 4. Dans les Réglages d'Aweep, cliquez sur **Autoriser Aweep…** et confirmez l'autorisation macOS. Si nécessaire, consultez **Réglages Système → Général → Ouverture et extensions**. Une approbation administrateur peut être requise.
