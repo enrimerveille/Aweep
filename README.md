@@ -16,14 +16,22 @@ Aweep est une application native macOS qui permet de gérer l'éveil de votre Ma
 
 Interface en français et en anglais, accessible depuis la barre des menus ou une fenêtre dédiée.
 
-## Compatibilité et installation
+## Compatibilité
 
 **macOS 26 ou plus récent · Intel et Apple silicon.**
+
+## Installation
 
 Ouvrez le DMG et glissez Aweep dans **Applications**. L'application demande une autorisation macOS pour son service privilégié.
 
 Aweep est signée **Apple Development, sans notarisation** : une autorisation manuelle dans les réglages de sécurité macOS peut être nécessaire.
 
-[Guide d'installation](INSTALLATION.md) · [Mise à jour](UPDATE.md) · [Notes de version](CHANGELOG.md)
+[Guide d’installation](INSTALLATION.md)
+
+## Mises à jour
+
+[Notes de version](CHANGELOG.md) · [Guide de mise à jour](UPDATE.md)
 
 Les mises à jour sont signalées dans l'application, puis installées **manuellement par DMG**.
+
+© 2026 Angry Thread. Tous droits réservés. Code source privé.

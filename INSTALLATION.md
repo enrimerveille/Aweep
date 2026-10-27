@@ -2,9 +2,11 @@
 
 **macOS 26+ · Intel et Apple silicon**
 
+**Aweep est déjà installée ?** Consultez le [guide de mise à jour](UPDATE.md) avant de remplacer l’application.
+
 1. [Téléchargez Aweep 1.0.1](https://github.com/enrimerveille/aweep-releases/releases/download/1.0.1/Aweep-1.0.1.dmg).
 2. Ouvrez le DMG, puis glissez **Aweep** dans **Applications**. Éjectez le DMG.
-3. Ouvrez Aweep depuis **Applications**.
+3. Ouvrez Aweep depuis **Applications**. Si macOS bloque l’ouverture, suivez la procédure de sécurité ci-dessous.
 4. Dans les Réglages d'Aweep, cliquez sur **Autoriser Aweep…** et confirmez l'autorisation macOS. Si nécessaire, consultez **Réglages Système → Général → Ouverture et extensions**. Une approbation administrateur peut être requise.
 
 ## Autorisation de sécurité macOS
@@ -18,8 +20,6 @@ En cas de blocage persistant ou d'alerte indiquant qu'une application est endomm
 ## Utilisation
 
 L'œil dans la barre des menus ouvre Aweep ; ses Réglages sont accessibles depuis le panneau ou la fenêtre principale. Sur les configurations avec Dock masqué, l'ouverture manuelle présente le panneau. Le démarrage à la connexion est silencieux.
-
-**Une nouvelle version à installer ?** Suivez le [guide de mise à jour](UPDATE.md) avant de remplacer l'application.
 
 ## Dépannage
 
