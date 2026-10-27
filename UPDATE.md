@@ -1,63 +1,30 @@
-# Mettre à jour Aweep 1.0.1
+# Mettre à jour Aweep
 
-La recherche automatique est activée par défaut. Vous pouvez la désactiver dans
-les Réglages ; OFF reste OFF au prochain lancement. Une recherche manuelle reste
-possible. Aweep vérifie le flux signé et accepte seulement la release officielle.
-Une erreur de serveur, de flux ou de signature n’autorise aucune installation.
+Aweep peut signaler une nouvelle version et ouvrir sa page GitHub. **La mise à jour reste manuelle** : téléchargez le nouveau DMG et remplacez l'application dans **Applications**.
 
-« Télécharger le DMG » ouvre la page GitHub de la version détectée. Choisissez
-`Aweep-X.Y.Z.dmg` dans ses assets. Aweep ne remplace pas automatiquement l’app.
+**Avant toute mise à jour :** revenez au mode **Système**, vérifiez qu'aucun Transport, maintien éveillé ou programmation n'est actif, puis suivez le parcours adapté ci-dessous. Si cet état ne peut pas être vérifié, arrêtez la procédure. Vos préférences sont normalement conservées.
 
-## 1.0.0 → 1.0.1 : helper inchangé
+## De 1.0.0 à 1.0.1
 
-Le helper 1.0.0, sa plist, son identité et sa politique de confiance sont
-strictement identiques dans les deux versions. Conservez son autorisation.
+Le service privilégié (helper) est inchangé : **conservez son autorisation**.
 
-1. Vérifiez l'état Système, sans programmation ni Transport actif, puis quittez
-   Aweep normalement. Si la fermeture est refusée, arrêtez la mise à jour.
-2. Remplacez Aweep dans Applications depuis `Aweep-1.0.1.dmg`, puis éjectez le DMG.
-3. Ouvrez l'application installée. Vérifiez 1.0.1, le helper autorisé et
-   authentifié, vos préférences et le fonctionnement de l'interface.
+1. Quittez normalement Aweep 1.0.0.
+2. Ouvrez le [DMG 1.0.1](https://github.com/enrimerveille/aweep-releases/releases/download/1.0.1/Aweep-1.0.1.dmg) et remplacez Aweep dans **Applications**.
+3. Lancez la nouvelle version et vérifiez l'autorisation ainsi que vos préférences.
 
-Sur certaines configurations Intel/macOS 26, le premier popover peut se
-repositionner visiblement. Cette limitation est acceptée pour 1.0.1 ; elle ne
-constitue pas une résolution totale du défaut de stabilité visuelle.
+## Depuis 0.9.x ou 0.2.x vers 1.0.1
 
-## 0.9.0 → 0.9.1 : helper identique
+Ces versions utilisent un ancien helper. **Retirez son autorisation avant de remplacer Aweep.**
 
-Les deux versions publiées embarquent exactement le même helper, version 0.9.0.
-Il n’est pas nécessaire de retirer puis de renouveler son autorisation pour cette
-paire. La version 0.9.1 de l’interface accepte ce helper 0.9.0 authentifié.
+1. Dans l'ancienne application inactive, ouvrez les Réglages et choisissez **Retirer l'autorisation Aweep**. Attendez la confirmation effective.
+2. Quittez normalement l'ancienne application.
+3. Remplacez Aweep dans **Applications** depuis le DMG 1.0.1.
+4. Ouvrez Aweep 1.0.1 puis choisissez **Autoriser Aweep…** et confirmez les demandes de macOS.
 
-1. Depuis 0.9.0, vérifiez les mises à jour et ouvrez la release officielle 0.9.1.
-2. Téléchargez son DMG. Revenez en mode Système, sans programmation ni Transport
-   actif, et attendez un état vérifié.
-3. Quittez Aweep normalement, via son menu ou le clic secondaire sur l’œil.
-   Si la fermeture est refusée, arrêtez la mise à jour.
-4. Remplacez Aweep dans Applications depuis le DMG ; éjectez le DMG.
-5. Ouvrez Aweep depuis Applications. Vérifiez 0.9.1, autorisation valide et vos
-   préférences, y compris le choix de recherche automatique.
+Si le retrait ou la fermeture échoue, **arrêtez la mise à jour** : ne remplacez pas l'application et ne tentez pas d'effacer manuellement le helper.
 
-Ce parcours a été qualifié physiquement le 12 octobre 2026 sur Mac Pro
-Intel / macOS Tahoe 26.7.1. Cela ne qualifie pas le changement de helper de 1.0.0.
+## De 0.9.0 à 0.9.1 (historique)
 
-## Depuis 0.9.x ou 0.2.x vers 1.0.x : helper différent
+Le helper de ces deux préversions est identique : quittez Aweep après avoir vérifié l'état inactif, remplacez-la depuis le DMG 0.9.1, puis relancez-la. Aucune nouvelle autorisation n'est normalement nécessaire.
 
-Le passage de 0.9.x ou d'une quotidienne 0.2.x à 1.0.0 ou 1.0.1 change le helper.
-L'app attend un helper 1.0.0 authentifié. Le helper 0.9.0 ou 2.x ne doit
-pas être réutilisé. L'ancien helper doit être retiré **avant** de remplacer l'app.
-
-1. Dans l’ancienne Aweep, revenez en mode Système et vérifiez l’absence de
-   programmation, de Transport et d’action en cours. Un état non vérifié impose
-   l’arrêt de la mise à jour.
-2. Dans ses Réglages, choisissez **Retirer l’autorisation Aweep**, confirmez et
-   attendez que l’ancienne autorisation soit retirée. Si l’action échoue ou reste
-   indisponible, conservez l’app et signalez le message.
-3. Quittez normalement l’ancienne app, puis remplacez-la dans Applications.
-4. Lancez la nouvelle copie et choisissez **Autoriser Aweep…**. Confirmez les
-   autorisations demandées par macOS, puis vérifiez la version et l’état.
-
-Les préférences métier restent dans le même domaine hors du bundle. N’effacez
-aucun service, journal ou fichier de préférences. N’utilisez aucune transaction
-Recovery ni commande de suppression. Si Gatekeeper bloque l’ouverture, suivez
-le [guide d’installation](INSTALLATION.md).
+Pour les difficultés de premier lancement et Gatekeeper, consultez le [guide d'installation](INSTALLATION.md).
