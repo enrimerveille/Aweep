@@ -4,17 +4,17 @@ Aweep peut signaler une nouvelle version et ouvrir sa page GitHub. **La mise à 
 
 **Avant toute mise à jour :** revenez au mode **Système**, vérifiez qu'aucun Transport, maintien éveillé ou programmation n'est actif, puis suivez le parcours adapté ci-dessous. Si cet état ne peut pas être vérifié, arrêtez la procédure. Si Aweep refuse de quitter, ne remplacez pas l’application. Vos préférences sont conservées.
 
-**Changement d’adresse GitHub :** depuis une version antérieure à 1.0.2, téléchargez et installez manuellement 1.0.2 depuis le [nouveau dépôt officiel](https://github.com/enrimerveille/Aweep/releases). L’ancien flux de mises à jour n’est plus maintenu. La version 1.0.2 utilise le nouveau canal.
+**Changement d’adresse GitHub :** depuis une version antérieure à 1.0.2, téléchargez et installez manuellement la version actuelle depuis le [nouveau dépôt officiel](https://github.com/enrimerveille/Aweep/releases). L’ancien flux de mises à jour n’est plus maintenu. La version 1.0.2 utilise le nouveau canal.
 
-## De 1.0.0 ou 1.0.1 à 1.0.2
+## De 1.0.x à 1.1.0
 
 Le service privilégié (helper) est inchangé : **conservez son autorisation**.
 
 1. Quittez normalement votre version actuelle d’Aweep.
-2. Ouvrez le [DMG 1.0.2](https://github.com/enrimerveille/Aweep/releases/download/1.0.2/Aweep-1.0.2.dmg) et remplacez Aweep dans **Applications**.
+2. Ouvrez le [DMG 1.1.0](https://github.com/enrimerveille/Aweep/releases/download/1.1.0/Aweep-1.1.0.dmg) et remplacez Aweep dans **Applications**.
 3. Éjectez le DMG, puis lancez Aweep depuis **Applications** et vérifiez l'autorisation ainsi que vos préférences.
 
-## Depuis 0.9.x ou 0.2.x vers 1.0.2
+## Depuis 0.9.x ou 0.2.x vers 1.1.0
 
 Ces versions utilisent un ancien helper. **Retirez son autorisation avant de remplacer Aweep.**
 

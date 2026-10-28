@@ -1,5 +1,10 @@
 # Notes de version
 
+## 1.1.0 - 28 octobre 2026
+
+- Affichage des applications et services qui demandent le maintien du Mac ou de l’écran, avec des détails dépliables.
+- Option « Garder l’écran allumé » en modes Éveillé et Temporaire, sans garantie contre tous les verrouillages.
+
 ## 1.0.2 — 27 octobre 2026
 
 Actualisation du canal de distribution et de recherche des mises à jour. Depuis une ancienne version, installez manuellement 1.0.2 pour retrouver la recherche de mises à jour après le changement d’adresse GitHub.
