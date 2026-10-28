@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Aweep — mises à jour manuelles</title>
     <item>
-      <title>Aweep 1.0.2</title>
-      <sparkle:version>1.0.2</sparkle:version>
-      <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+      <title>Aweep 1.1.0</title>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:informationalUpdate></sparkle:informationalUpdate>
-      <link>https://github.com/enrimerveille/Aweep/releases/tag/1.0.2</link>
-      <description sparkle:format="plain-text">Actualisation du canal de distribution et de recherche des mises à jour. Depuis une ancienne version, installez manuellement 1.0.2 depuis le nouveau dépôt GitHub. Apple Development, non notarizée. Installation manuelle par DMG.</description>
-      <enclosure url="https://github.com/enrimerveille/Aweep/releases/download/1.0.2/Aweep-1.0.2.zip" length="4712385" type="application/octet-stream" sparkle:edSignature="XdwtaNljcflKbO916HfxBkzXWSDJAq+sSyzhQcI/gen9CG8bqqOBkrfuaBRSA6YHPkXAQJSvv418ifE2u7LPBQ=="></enclosure>
+      <link>https://github.com/enrimerveille/Aweep/releases/tag/1.1.0</link>
+      <description sparkle:format="plain-text">Mise à jour manuelle par DMG depuis le dépôt officiel Aweep. Apple Development, non notarizée. Aucune installation automatique.</description>
+      <enclosure url="https://github.com/enrimerveille/Aweep/releases/download/1.1.0/Aweep-1.1.0.zip" length="4817328" type="application/octet-stream" sparkle:edSignature="7Cd8ex603RCTeGCpyML4wLdp75Yyaam+AU80cRhrF8NaPa3lRLWdziAwB5GPa90Q+F7KykEkQuKKcYFl5B4gCg=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: uDJ/gObPnFXD+XcaRTwCeVr6cFaCO0dX0aZnI+9sKxNAcQg9ZP6LLHKuP4/1jbTz6G+WSKGpanghPXN2OsNMBA==
-length: 1418
+edSignature: 4YuIYyjC43ViAivTw0SRtF+izIuZtalXDxv/w4/XdxmStCPBUiErLseD+gchOztWDln0DjC/rXmghzEp76nZCg==
+length: 1318
 -->
