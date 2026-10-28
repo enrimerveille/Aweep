@@ -4,17 +4,17 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
   <channel>
     <title>Aweep — mises à jour manuelles</title>
     <item>
-      <title>Aweep 1.1.0</title>
-      <sparkle:version>1.1.0</sparkle:version>
-      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <title>Aweep 1.1.1</title>
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
       <sparkle:informationalUpdate></sparkle:informationalUpdate>
-      <link>https://github.com/enrimerveille/Aweep/releases/tag/1.1.0</link>
+      <link>https://github.com/enrimerveille/Aweep/releases/tag/1.1.1</link>
       <description sparkle:format="plain-text">Mise à jour manuelle par DMG depuis le dépôt officiel Aweep. Apple Development, non notarizée. Aucune installation automatique.</description>
-      <enclosure url="https://github.com/enrimerveille/Aweep/releases/download/1.1.0/Aweep-1.1.0.zip" length="4817328" type="application/octet-stream" sparkle:edSignature="7Cd8ex603RCTeGCpyML4wLdp75Yyaam+AU80cRhrF8NaPa3lRLWdziAwB5GPa90Q+F7KykEkQuKKcYFl5B4gCg=="></enclosure>
+      <enclosure url="https://github.com/enrimerveille/Aweep/releases/download/1.1.1/Aweep-1.1.1.zip" length="4859827" type="application/octet-stream" sparkle:edSignature="dnH4VfjGX0K9vCO53bUWfJblf1hdhJU5EgsHVSS4uQTqGSs0nQeOcq2w8uxHGh0rUJDNLScd22XlNba8UcG8Ag=="></enclosure>
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 4YuIYyjC43ViAivTw0SRtF+izIuZtalXDxv/w4/XdxmStCPBUiErLseD+gchOztWDln0DjC/rXmghzEp76nZCg==
+edSignature: PI0b2dUAZQpxQu7O8liWnM7cJfGpj5mgpRg4loIpGhuVRTgO/oMdg72Z1LlSuF9aBj7QJQs1l9/fcicKConpDA==
 length: 1318
 -->

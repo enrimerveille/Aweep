@@ -1,17 +1,17 @@
 {
-  "appSHA256": "7467fa70ebc73e7c8d49bb9eeef70612b6f820f38ea28d11bd44aa9fcfe8ad3e",
+  "appSHA256": "c5a5d5868682f01a28a7af761d47cacc7aa39fcf1a54692de9efc8d00ec35019",
   "architectures": [
     "arm64",
     "x86_64"
   ],
-  "archiveSHA256": "0a7205ea83989fd0434e5ef6e82412da6c4e8e15c30971f83b1b9f318ef9df0e",
+  "archiveSHA256": "baf65d012085643d9e6ec952ebc9cc5fd376e02253eafdd69ba89b5f49a9c97e",
   "assetSignatures": {
-    "Aweep-1.1.0.dmg": "4+FQoZaArohcoVpJzsXZjq4EgTwD5CnVPOfLGuC1dQXfLOZYq0Jo8v6iiBx2pGXderKgvUCeXHmL8cB1VDVRCQ==",
-    "Aweep-1.1.0.zip": "7Cd8ex603RCTeGCpyML4wLdp75Yyaam+AU80cRhrF8NaPa3lRLWdziAwB5GPa90Q+F7KykEkQuKKcYFl5B4gCg=="
+    "Aweep-1.1.1.dmg": "VR4WKiu88HIWR+f83Rv/ZH5IeBfggY0KUfei5ziYnBEGgj9+u4tBpYzShf3DJJx1/HT3NkcS4EuFG7t2qe85Bg==",
+    "Aweep-1.1.1.zip": "dnH4VfjGX0K9vCO53bUWfJblf1hdhJU5EgsHVSS4uQTqGSs0nQeOcq2w8uxHGh0rUJDNLScd22XlNba8UcG8Ag=="
   },
-  "build": "1.1.0",
+  "build": "1.1.1",
   "distributableOfficially": false,
-  "dmgSHA256": "e41200f4c9135f79a828722fd00976995755028bf85be1fc0b38885fe4b8e2cf",
+  "dmgSHA256": "047de96ef7cc3d2540d20385f7c751a00ef01ae9518d680e41221c311ddecda3",
   "gatekeeperTransparent": false,
   "helperBuild": "1.0.0",
   "helperEligibility": "SPARKLE-ELIGIBLE",
@@ -23,5 +23,5 @@
   "selfInstallEnabled": false,
   "sparkleVersion": "2.10.0",
   "updateMode": "MANUAL-DMG",
-  "version": "1.1.0"
+  "version": "1.1.1"
 }
