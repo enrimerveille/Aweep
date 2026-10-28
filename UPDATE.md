@@ -6,15 +6,15 @@ Aweep peut signaler une nouvelle version et ouvrir sa page GitHub. **La mise à 
 
 **Changement d’adresse GitHub :** depuis une version antérieure à 1.0.2, téléchargez et installez manuellement la version actuelle depuis le [nouveau dépôt officiel](https://github.com/enrimerveille/Aweep/releases). L’ancien flux de mises à jour n’est plus maintenu. La version 1.0.2 utilise le nouveau canal.
 
-## De 1.0.x à 1.1.0
+## Depuis 1.0.x ou 1.1.0 vers 1.1.1
 
 Le service privilégié (helper) est inchangé : **conservez son autorisation**.
 
 1. Quittez normalement votre version actuelle d’Aweep.
-2. Ouvrez le [DMG 1.1.0](https://github.com/enrimerveille/Aweep/releases/download/1.1.0/Aweep-1.1.0.dmg) et remplacez Aweep dans **Applications**.
+2. Ouvrez le [DMG 1.1.1](https://github.com/enrimerveille/Aweep/releases/download/1.1.1/Aweep-1.1.1.dmg) et remplacez Aweep dans **Applications**.
 3. Éjectez le DMG, puis lancez Aweep depuis **Applications** et vérifiez l'autorisation ainsi que vos préférences.
 
-## Depuis 0.9.x ou 0.2.x vers 1.1.0
+## Depuis 0.9.x ou 0.2.x vers 1.1.1
 
 Ces versions utilisent un ancien helper. **Retirez son autorisation avant de remplacer Aweep.**
 

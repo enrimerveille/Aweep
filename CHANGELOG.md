@@ -1,5 +1,10 @@
 # Notes de version
 
+## 1.1.1 - 28 octobre 2026
+
+- Amélioration de la fluidité des panneaux et du redimensionnement des fenêtres.
+- Masquage du message lorsqu’aucune demande externe significative n’est observée.
+
 ## 1.1.0 - 28 octobre 2026
 
 - Affichage des applications et services qui demandent le maintien du Mac ou de l’écran, avec des détails dépliables.
